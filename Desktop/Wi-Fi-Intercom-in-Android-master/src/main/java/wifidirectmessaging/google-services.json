@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "589670744769",
+    "firebase_url": "https://wificallingwifimsg-master.firebaseio.com",
+    "project_id": "wificallingwifimsg-master",
+    "storage_bucket": "wificallingwifimsg-master.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:589670744769:android:ca9619bed8fa7a8e680a40",
+        "android_client_info": {
+          "package_name": "com.example.riyasalian.wificalling"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "589670744769-21rq1gtfcrj8jcvpgjb40vrb77p3d5fq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.riyasalian.wificalling",
+            "certificate_hash": "18a4ca833ddc43d767a62d534423d08b065d9df9"
+          }
+        },
+        {
+          "client_id": "589670744769-mpo78k887smi65fp858clqgnpbb1a0u5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzoDwWlmULOxYZauxQo7jRp1kf-vNDtwY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "589670744769-mpo78k887smi65fp858clqgnpbb1a0u5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
